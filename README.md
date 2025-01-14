@@ -6,4 +6,4 @@ I recommend using it alongside a extension like "Custom CSS by Denis", available
 # Snippet 1 - Coloured-Chat-GPT-User-Messages
 
 This CSS changes the backgound color of the user sent messages to a low saturated bright green, helping to distinguish between user messages and chat GPT's response.
-![](readme-images/s1.jpg)
+![](readme-images/S1.jpg)
