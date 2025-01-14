@@ -9,4 +9,4 @@ This CSS changes the backgound color of the user sent messages to a low saturate
 
 ![Coloured-Chat-GPT-User-Messages-Demonstration](readme-images/S1.png)
 
-<img src="readme-images/S1.png" alt="Coloured-Chat-GPT-User-Messages-Demonstration" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);" />
+<img src="readme-images/S1.png" alt="Coloured-Chat-GPT-User-Messages-Demonstration" style="border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);" />
