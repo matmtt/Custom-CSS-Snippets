@@ -1,0 +1,8 @@
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Facilita a leitura de leis no website planalto.gov, centralizando o texto. */
