@@ -1,3 +1,8 @@
-div[data-message-author-role="user"] > div > div {
+div[data-message-author-role="user"] > div > div:not(:has(img)) {
     background-color: #cbf7d0 !important;
+}
+
+div[data-message-author-role="user"] img {
+    border: 3px solid #cbf7d0 !important;
+    border-radius: 10px;
 }
