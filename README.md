@@ -13,9 +13,9 @@ This CSS changes the backgound color of the user sent messages to a low saturate
 
 This CSS expands the modifications from the first snippet, adding a couple more changes:
 
-> User messages
-> User input area
-> ChatGPT messages
-> ChatGPT code container background
+- User messages
+- User input area
+- ChatGPT messages
+- ChatGPT code container background
 
 ![image](https://github.com/user-attachments/assets/22f342e0-5b11-400a-84df-52704ec41b87)
