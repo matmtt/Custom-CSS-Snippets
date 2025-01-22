@@ -8,7 +8,7 @@ I recommend using it alongside a extension like "Custom CSS by Denis", available
 This CSS changes the backgound color of the user sent messages to a low saturated bright green, helping to distinguish between user messages and chat GPT's response.
 
 <details>
-    <summary> Preview</summary>
+    <summary> Image Preview</summary>
   
 ![](readme-images/S1.jpg)
 </details>
@@ -23,7 +23,7 @@ This CSS expands the modifications from the first snippet, adding a couple more 
 - ChatGPT code container background
 
 <details>
-    <summary> Preview</summary>
+    <summary> Image Preview</summary>
   
 ![image](https://github.com/user-attachments/assets/22f342e0-5b11-400a-84df-52704ec41b87)
 </details>
