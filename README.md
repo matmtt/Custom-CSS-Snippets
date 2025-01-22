@@ -19,3 +19,8 @@ This CSS expands the modifications from the first snippet, adding a couple more 
 - ChatGPT code container background
 
 ![image](https://github.com/user-attachments/assets/22f342e0-5b11-400a-84df-52704ec41b87)
+
+<details>
+  <summary>Preview</summary>
+![image](https://github.com/user-attachments/assets/22f342e0-5b11-400a-84df-52704ec41b87)
+</details>
